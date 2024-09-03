@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine%20Learning/Predictive%20Modeling%20for%20Agriculture/mlruns/0/02aaba6fc487418aa3b1bb5724e5f1af/artifacts
+end_time: 1725385588495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02aaba6fc487418aa3b1bb5724e5f1af
+run_name: zealous-pig-933
+run_uuid: 02aaba6fc487418aa3b1bb5724e5f1af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725385582850
+status: 3
+tags: []
+user_id: phoni
